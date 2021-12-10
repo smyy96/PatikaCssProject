@@ -1,0 +1,63 @@
+/* Patika Css eğitimi */
+
+
+.headers1{
+    color: palevioletred;
+    font-size: 60px;
+    font-family: fantasy;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.headers2
+{
+    color: rgb(99, 10, 39);
+    font-size: 30px;
+    font-family: fantasy;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.HomePageBtn{
+    color: rgb(92, 62, 230);
+    font-size: 25px;
+    font-family: fantasy;
+    margin-top: 30px;
+    text-align: center;
+    word-spacing: 10px;
+
+}
+
+img{
+    
+    margin-left: 700px;
+    height: 350px; 
+    margin-top: 30px;
+    border: 3px solid #000000;
+}
+
+p{
+    font-size: 20px;
+    text-align: center;
+    margin: 20px;
+    color: darkslategray;
+    font-family: cursive;
+}
+
+body{
+    background-color: lightcyan;
+}
+
+.map{
+    margin-top: 30px;
+    margin-left: 500px;
+}
+
+.addressMail{
+    font-size: 20px; 
+    color: midnightblue; 
+    margin-top: 35px; 
+    margin: 10px;
+    font-family: fantasy;
+
+}
